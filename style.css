@@ -66,19 +66,33 @@ nav {
   margin-bottom: 5vh;
 }
 .email {
-  margin-left: 5vw;
+  margin-top: 20vh;
   display: flex;
   flex-direction: row;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .phone {
-  margin-left: 5vw;
+  margin-top: 20vh;
+
   display: flex;
   flex-direction: row;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  margin-bottom: 5vh;
 }
 .footer {
   display: flex;
   flex-direction: column;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.Contact {
+  display: flex;
+  font-size: 60px;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.Linkdin {
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: row;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
