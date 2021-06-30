@@ -1,0 +1,17 @@
+.products {
+  width: 70%;
+}
+.fas {
+  color: white;
+}
+.number {
+  margin: 0 10px;
+  height: 25px;
+  width: 25px;
+  display: grid;
+  place-items: center;
+  background: red;
+  border-radius: 50%;
+  color: white;
+  font-family: monospace;
+}
